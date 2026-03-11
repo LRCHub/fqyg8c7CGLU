@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "幾重 - Ikue",
+  "base_artist": "YUZU",
+  "createdAt": "2026-03-11T08:01:06.170097Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "幾重",
+      "artist": "ゆず",
+      "has_synced": false,
+      "path": "select/pl_01_幾重_ゆず.txt"
+    }
+  ]
+}
